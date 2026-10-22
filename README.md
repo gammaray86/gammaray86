@@ -11,10 +11,14 @@
 ## Технологии и навыки
 
 - **Языки:** Python, SQL
-- **Анализ данных:** pandas, NumPy, SciPy, Matplotlib, Seaborn
-- **Машинное обучение:** scikit-learn, CatBoost, LightGBM
+- **Базы данных:** PostgreSQL
+- **Анализ данных:** pandas, NumPy, SciPy
+- **Визуализация данных:** Matplotlib, Seaborn
+- **Машинное обучение:** scikit-learn, CatBoost, LightGBM, XGBoost
 - **Глубокое обучение:** PyTorch, TensorFlow, Keras
+- **Компьютерное зрение:** OpenCV
 - **Большие данные:** PySpark
+- **Инструменты:** Jupyter Notebook
 - **Методы:** EDA, статистический анализ, feature engineering, кросс-валидация, подбор гиперпараметров, ансамблирование, SHAP
 - **Направления:** классификация, регрессия, временные ряды, NLP, компьютерное зрение, мультимодальный поиск
 
